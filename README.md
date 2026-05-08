@@ -7,6 +7,7 @@ I've been a backend developer on C# and Python for over 3 months now. I'm also p
 
 * 🌍  I'm based in Latvia
 * ✉️  You can contact me at [tolkattkas@gmail.com](mailto:tolkattkas@gmail.com)
+* ✉️  My website/portfolio [cheerful-seahorse-d6be7f.netlify.app]
 * 🧠  I'm currently learning C++ and Node.js
 * 👥  I'm looking to collaborate on Rage:MP projects and more
 
